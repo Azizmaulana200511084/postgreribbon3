@@ -1,0 +1,33 @@
+QWidget {
+    background-color: #dfe9f5;
+}
+
+MainWindow {
+    border-image: url("C:/Users/Aziz Maulana/Downloads/Rufus/a.jpg") 0 0 0 0 stetch stretch;
+    background-size: auto;
+    background-position: center;
+}
+
+WindowAlumni {
+    border-image: url("C:/Users/Aziz Maulana/Downloads/Rufus/a.jpg") 0 0 0 0 stetch stretch;
+    background-size: auto;
+    background-position: center;
+}
+
+NahasiswaWindow {
+    border-image: url("C:/Users/Aziz Maulana/Downloads/Rufus/a.jpg") 0 0 0 0 stetch stretch;
+    background-size: auto;
+    background-position: center;
+}
+
+WindowMatakuliah {
+    border-image: url("C:/Users/Aziz Maulana/Downloads/Rufus/a.jpg") 0 0 0 0 stetch stretch;
+    background-size: auto;
+    background-position: center;
+}
+
+WindowDosen {
+    border-image: url("C:/Users/Aziz Maulana/Downloads/Rufus/a.jpg") 0 0 0 0 stetch stretch;
+    background-size: auto;
+    background-position: center;
+}
